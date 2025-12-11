@@ -11,8 +11,6 @@ const b=()=>{
  }
 const e=()=>{  
 
-    alert("bye");   
-
-    return '2';   
+    alert("bye");    
 
  }
