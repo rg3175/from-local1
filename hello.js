@@ -3,5 +3,9 @@ const a=()=>{
 }
 
 const b=()=>{  
+
     alert("bye");   
+
+    return '2';   
+
  }
