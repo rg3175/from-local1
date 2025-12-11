@@ -9,3 +9,11 @@ const b=()=>{
     return '2';   
 
  }
+const c=()=>{  
+
+   console.log("ccc");
+   
+
+    
+
+ }
