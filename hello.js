@@ -9,3 +9,10 @@ const b=()=>{
     return '2';   
 
  }
+const e=()=>{  
+
+    alert("bye");   
+
+    return '2';   
+
+ }
