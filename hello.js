@@ -4,7 +4,11 @@ const a=()=>{
 
 const b=()=>{  
 
+
    alert("feature2 VERSION");   
+
+    alert("M VERSION");   
+
 
     return '2';   
 
