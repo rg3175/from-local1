@@ -4,7 +4,7 @@ const a=()=>{
 
 const b=()=>{  
 
-    alert("bye");   
+   alert("feature2 VERSION");   
 
     return '2';   
 
