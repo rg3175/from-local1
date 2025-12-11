@@ -9,3 +9,8 @@ const b=()=>{
     return '2';   
 
  }
+
+ const d=()=>{
+
+ confirm("are you sure?"); 
+}
